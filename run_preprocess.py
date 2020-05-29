@@ -1,23 +1,3 @@
-run_preproces.py
-Typ elementu
-Tekst
-Rozmiar
-8 KB (8 366 bajtów)
-Wykorzystane miejsce
-8 KB (8 366 bajtów)
-Lokalizacja
-ssd_keras
-Właściciel
-ja
-Zmodyfikowany
-5 kwi 2020 przeze mnie
-Otwarty
-10:44 przeze mnie
-Utworzony
-10:44 w aplikacji Google Drive Web
-Dodaj opis
-Przeglądający mogą pobierać
-
 import scipy.io as sio
 import numpy as np
 import os
